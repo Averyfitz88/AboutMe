@@ -1,16 +1,16 @@
-# AboutMe
-## Summary:
+## AboutMe
+# Summary:
 Mission Statement: “To always work hard to represent my values, thus achieving success in both individual and collective aspirations.”
 
 I am a confident individual with a positive outlook on life who strives to uphold authenticity and accountability. I love to experience adversity, namely in the form of new cultures and environments. I have a desire to learn more within the field of finance and the use of statistics.
 
-# Education:
+## Education:
 
 Graduated International School of Lausanne with IB Diploma with 37 points
 
 Attending Lehigh University - School of Business and Economics
 
-# Experiences:
+## Experiences:
 
 Coordinated and volunteered in service trips
 
@@ -40,5 +40,5 @@ Competed in the International ISMTF Junior Maths Competition
 
 •	Competed with 100 other schools individually placing in the top 20%
 
-Skills:
+## Skills:
 Intermediate proficiency in Mandarin, basic Excel capabilities, ability to comfortable utilize Graphing calculator
