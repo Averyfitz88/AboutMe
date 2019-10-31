@@ -12,7 +12,7 @@ Attending Lehigh University - School of Business and Economics
 
 ## Experiences:
 
-Coordinated and volunteered in service trips
+### Coordinated and volunteered in service trips
 
 •	Organized 3 months of fundraising in order to finance the service trip to Tanzania
 
