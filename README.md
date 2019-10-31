@@ -4,13 +4,13 @@ Mission Statement: “To always work hard to represent my values, thus achieving
 
 I am a confident individual with a positive outlook on life who strives to uphold authenticity and accountability. I love to experience adversity, namely in the form of new cultures and environments. I have a desire to learn more within the field of finance and the use of statistics.
 
-Education:
+# Education:
 
 Graduated International School of Lausanne with IB Diploma with 37 points
 
 Attending Lehigh University - School of Business and Economics
 
-Experiences:
+# Experiences:
 
 Coordinated and volunteered in service trips
 
