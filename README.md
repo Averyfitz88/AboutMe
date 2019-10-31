@@ -22,21 +22,21 @@ Attending Lehigh University - School of Business and Economics
 
 •	Contributed to the painting of school buildings in both Cambodia and Tanzania
 
-Developed a paper on the economy for paediatric dentistry in Philadelphia
+### Developed a paper on the economy for paediatric dentistry in Philadelphia
 
 •	Conducted first-hand research within the industry
 
 •	Created a detailed 5000-word research paper investigating the market structure
 
-Led a varsity basketball team to compete in international tournaments
+### Led a varsity basketball team to compete in international tournaments
 
 •	Earned MVP of the team in High school award ceremony
 
-Adjusted to lifestyle in different cultures
+### Adjusted to lifestyle in different cultures
 
 •	Experienced 7 years in United States, 4 in China, 3 in Singapore and 5 in Switzerland
 
-Competed in the International ISMTF Junior Maths Competition
+### Competed in the International ISMTF Junior Maths Competition
 
 •	Competed with 100 other schools individually placing in the top 20%
 
